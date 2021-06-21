@@ -1,0 +1,5 @@
+soong_namespace {
+    imports: [
+        "device/realme/sm7125-common",
+    ],
+}
