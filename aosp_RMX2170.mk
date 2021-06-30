@@ -7,11 +7,13 @@
 # Inherit from RMX2170 device
 $(call inherit-product, device/realme/RMX2170/device.mk)
 
-# Inherit some common AospExtended stuff
-$(call inherit-product, vendor/aosp/common.mk)
-
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
+
+WITH_GAPPS := true
+
+# Inherit some common AospExtended stuff
+$(call inherit-product, vendor/aosp/common.mk)
 
 # Device identifier
 PRODUCT_NAME := aosp_RMX2170
