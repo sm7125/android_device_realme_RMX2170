@@ -472,6 +472,10 @@ odm/firmware/fastchg/charging_thermal_config_default.txt
 # QTI Teemodel
 odm/vendor/firmware/teemodel
 
+# Sensors
+vendor/lib/sensors.ssc.so
+vendor/lib64/sensors.ssc.so
+
 # TP Firmware
 odm/firmware/tp/206b1/LIMIT_FT3518_SAMSUNG.img
 odm/firmware/tp/206b1/FW_FT3518_SAMSUNG.img
