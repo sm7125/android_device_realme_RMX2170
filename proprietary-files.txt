@@ -460,3 +460,19 @@ odm/etc/samsung1024_ams643xf01_srgb_eyeprotect_data.xml
 odm/etc/samsung1024_ams643xy01_cinema_eyeprotect_data.xml
 odm/etc/samsung1024_ams643xy01_eyeprotect_data.xml
 odm/etc/samsung1024_ams643xy01_srgb_eyeprotect_data.xml
+
+# dpAP firmware
+vendor/firmware/dpAP_full.mbn
+vendor/firmware/dpAP_mini.mbn
+
+# Fastcharge Firmware
+odm/firmware/fastchg/206b1/oplus_vooc_fw_rk826.bin
+odm/firmware/fastchg/charging_thermal_config_default.txt
+
+# QTI Teemodel
+odm/vendor/firmware/teemodel
+
+# TP Firmware
+odm/firmware/tp/206b1/LIMIT_FT3518_SAMSUNG.img
+odm/firmware/tp/206b1/FW_FT3518_SAMSUNG.img
+odm/firmware/tp/206b1/FW_FT3518_SAMSUNG_FAE.img
