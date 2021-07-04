@@ -1,0 +1,25 @@
+# Audio-ACDB
+odm/etc/acdbdata/Headset_cal.acdb
+odm/etc/acdbdata/Handset_cal.acdb
+odm/etc/acdbdata/General_cal.acdb
+odm/etc/acdbdata/Bluetooth_cal.acdb
+odm/etc/acdbdata/Global_cal.acdb
+odm/etc/acdbdata/Speaker_cal.acdb
+odm/etc/acdbdata/Hdmi_cal.acdb
+
+# Audio HAL
+vendor/lib/hw/audio.primary.atoll.so
+vendor/lib64/hw/audio.primary.atoll.so
+vendor/lib/libtinycompress.so
+vendor/lib64/libtinycompress.so
+odm/lib/libaudioEngineerTest.so
+odm/lib64/libaudioEngineerTest.so
+odm/lib/liblvimfs.so
+odm/lib/liblvimfs_wrapper.so
+odm/lib64/liblvimfs.so
+odm/lib64/liblvimfs_wrapper.so
+vendor/lib/hw/sound_trigger.primary.atoll.so
+vendor/lib64/hw/sound_trigger.primary.atoll.so
+
+# Audio amplifier firmware
+vendor/firmware/tfa98xx.cnt
