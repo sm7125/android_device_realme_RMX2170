@@ -440,3 +440,23 @@ vendor/lib/libcdsp_default_listener.so
 vendor/lib/libcdsprpc.so
 vendor/lib64/libcdsp_default_listener.so
 vendor/lib64/libcdsprpc.so
+
+# Display calibration data
+vendor/etc/qdcm_calib_data_samsung_ams643xf01_amoled_fhd+_panel_without_DSC.xml
+vendor/etc/qdcm_calib_data_boe_nt37800_amoled_fhd+_panel_with_DSC.xml
+vendor/etc/qdcm_calib_data_samsung_ams643xy01_amoled_fhd+_panel_without_DSC.xml
+vendor/etc/qdcm_calib_data_samsung_AMS678UW01_dsc_cmd_mode_panel.xml
+vendor/etc/qdcm_calib_data_samsung_amb655uv01_amoled_fhd+_panel_no_DSC.xml
+vendor/etc/qdcm_calib_data_samsung_20261_ams643ye01_amoled_fhd+_panel_without_DSC.xml
+vendor/etc/ltm_config_samsung_AMS678UW01_dsc_cmd_mode_panel.xml
+vendor/etc/ltm_config_samsung_amb655uv01_amoled_fhd+_panel_with_DSC.xml
+vendor/etc/Oppo_QC_LTM_Commercial_SM8250_2020_01_15.pfm
+
+# Display Eyeprotect Data
+odm/etc/samsung1024_amb655uv01_eyeprotect_data.xml
+odm/etc/samsung1024_amb655uv01_srgb_eyeprotect_data.xml
+odm/etc/samsung1024_ams643xf01_eyeprotect_data.xml
+odm/etc/samsung1024_ams643xf01_srgb_eyeprotect_data.xml
+odm/etc/samsung1024_ams643xy01_cinema_eyeprotect_data.xml
+odm/etc/samsung1024_ams643xy01_eyeprotect_data.xml
+odm/etc/samsung1024_ams643xy01_srgb_eyeprotect_data.xml
