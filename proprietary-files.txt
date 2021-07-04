@@ -469,6 +469,28 @@ vendor/firmware/dpAP_mini.mbn
 odm/firmware/fastchg/206b1/oplus_vooc_fw_rk826.bin
 odm/firmware/fastchg/charging_thermal_config_default.txt
 
+# Oppo HIDL hals
+odm/etc/orms/orms_permission_config.xml
+odm/bin/hw/vendor.oplus.hardware.biometrics.fingerprint@2.1-service
+odm/bin/hw/vendor.oplus.hardware.orms.ormsHalService@1.0-service
+odm/lib/vendor.oplus.hardware.biometrics.fingerprintservice@1.0.so
+odm/lib/vendor.oplus.hardware.biometrics.fingerprint@2.1.so
+odm/lib/vendor.oplus.hardware.orms@1.0.so
+odm/lib/vendor.oplus.hardware.orms.ormsHalService@1.0.so
+odm/lib/hw/vendor.oplus.hardware.orms.ormsHalService@1.0-impl.so
+odm/lib/libormshalclient.so
+odm/lib64/vendor.oplus.hardware.biometrics.fingerprintservice@1.0.so
+odm/lib64/vendor.oplus.hardware.biometrics.fingerprint@2.1.so
+odm/lib64/vendor.oplus.hardware.orms@1.0.so
+odm/lib64/vendor.oplus.hardware.orms.ormsHalService@1.0.so
+odm/lib64/hw/vendor.oplus.hardware.orms.ormsHalService@1.0-impl.so
+odm/lib64/libormshalclient.so
+odm/etc/init/vendor.oplus.hardware.biometrics.fingerprint@2.1-service.rc
+odm/etc/init/vendor.oplus.hardware.orms.ormsHalService@1.0-service.rc
+vendor/lib/vendor.oplus.hardware.commondcs@1.0.so
+vendor/lib64/vendor.oplus.hardware.commondcs@1.0.so
+-odm/etc/vintf/manifest/manifest_oplus_orms.xml
+
 # QTI Teemodel
 odm/vendor/firmware/teemodel
 
