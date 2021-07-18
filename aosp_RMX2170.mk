@@ -10,7 +10,7 @@ $(call inherit-product, device/realme/RMX2170/device.mk)
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
 
-WITH_GAPPS := true
+WITH_CORE_GAPPS := true
 
 # Inherit some common AospExtended stuff
 $(call inherit-product, vendor/aosp/common.mk)
