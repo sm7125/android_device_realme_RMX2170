@@ -8,7 +8,7 @@
 include device/realme/sm7125-common/BoardConfigCommon.mk
 
 # Inherit proprietary blobs
--include vendor/realme/RMX2170/BoardConfigVendor.mk
+include vendor/realme/RMX2170/BoardConfigVendor.mk
 
 DEVICE_PATH := device/realme/RMX2170
 
