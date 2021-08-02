@@ -28,7 +28,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-realme
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="atoll-user 11 RKQ1.200903.002/ eng.root.04080114.013112 release-keys"
 
-BUILD_FINGERPRINT := "google/coral/coral:11/RQ3A.210705.001/7380771:user/release-keys"
+BUILD_FINGERPRINT := "google/redfin/redfin:11/RQ3A.210705.001/7380771:user/release-keys"
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="RMX2170" \
