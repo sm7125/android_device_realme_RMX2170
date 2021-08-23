@@ -13,6 +13,8 @@ TARGET_BOOT_ANIMATION_RES := 1080
 WITH_CORE_GAPPS := true
 EXTRA_FOD_ANIMATIONS := true
 
+EXTENDED_BUILD_TYPE := OFFICIAL
+
 # Inherit some common AospExtended stuff
 $(call inherit-product, vendor/aosp/common.mk)
 
