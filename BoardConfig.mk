@@ -25,3 +25,7 @@ TARGET_FORCE_PREBUILT_KERNEL := true
 
 # Kernel
 TARGET_KERNEL_CONFIG := RMX2170_defconfig
+
+# Properties
+TARGET_SYSTEM_PROP += $(COMMON_PATH)/system.prop
+
