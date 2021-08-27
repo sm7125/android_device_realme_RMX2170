@@ -436,6 +436,7 @@ vendor/lib64/vendor.oplus.hardware.commondcs@1.0.so
 -odm/etc/vintf/manifest/manifest_oplus_orms.xml
 
 # Sensors
+vendor/etc/sensors/hals.conf
 vendor/lib/sensors.ssc.so
 vendor/lib64/sensors.ssc.so
 
