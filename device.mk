@@ -10,6 +10,10 @@ $(call inherit-product, device/realme/sm7125-common/common.mk)
 # Inherit proprietary targets
 $(call inherit-product-if-exists, vendor/realme/RMX2170/RMX2170-vendor.mk)
 
+# Prebuilts
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/prebuilt/dtb.img:dtb.img
+
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
