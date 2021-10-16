@@ -543,3 +543,7 @@ vendor/lib64/sensors.ssc.so
 odm/firmware/tp/206b1/LIMIT_FT3518_SAMSUNG.img
 odm/firmware/tp/206b1/FW_FT3518_SAMSUNG.img
 odm/firmware/tp/206b1/FW_FT3518_SAMSUNG_FAE.img
+
+# HotwordEnrollment
+-product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk;PRESIGNED
+system_ext/framework/com.android.hotwordenrollment.common.util.jar
