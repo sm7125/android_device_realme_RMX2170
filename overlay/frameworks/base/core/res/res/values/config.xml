@@ -40,4 +40,10 @@
     <!-- Whether to show a custom view for FOD -->
     <bool name="config_needCustomFODView">true</bool>
 
+    <!-- The properties of a UDFPS sensor in pixels, in the order listed below: -->
+    <integer-array name="config_udfps_sensor_props" translatable="false" >
+        <item>540</item>
+        <item>2197</item>
+        <item>97</item>
+    </integer-array>
 </resources>
